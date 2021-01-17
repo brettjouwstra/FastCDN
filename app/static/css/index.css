@@ -1,0 +1,76 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    padding: 25px;
+    background-color: #909CC2;
+}
+
+.page-god {
+    display: flex;
+    position: relative;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Styles the list groups */
+.lg-top {
+    background-color: white;
+    color: black;
+}
+
+.css-lgi /*lgi = list group item */ {
+    margin-top: 50px;
+    background-color: #084887;
+    color: white;
+}
+.css-lgi:hover {
+    background-color: #67acf1;
+    color: black;
+}
+
+.js-lgi {
+    margin-top: 50px;
+    background-color: #F58A07;
+    color: white;
+}
+.js-lgi:hover {
+    background-color: #F9AB55;
+    color: black;
+}
+
+#alert {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.showme {
+    visibility: hidden;
+}
+
+.alert-cust {
+    width: 300px;
+    height: 50px;
+    background-color: #084887;
+    color: white;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.list-cust {
+    width: 300px;
+    margin: 5px;
+}
+
+.cheat-lgi {
+    margin-top: 50px;
+    background-color: #8ed081;
+    color: white;
+}
+
+.cheat-lgi:hover {
+    background-color: #c2fdb6;
+    color: black;
+}
