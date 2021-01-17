@@ -23,7 +23,7 @@ all_data = {
 
 ### Application
 
-When the app runs it'll serve a single page at "/" that creates buttons for each of the items in the data file; organized by category and color coded for easy use. 
+When the app runs it'll serve a single page at "/" that creates buttons for each of the items in the data file; organized by category and color coded for easy use. Just click them and the URL for the file will will be copied to the clipboard. You know hwo to do the rest!
 
 Here's an example of my setup:
 
