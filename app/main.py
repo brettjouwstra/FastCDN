@@ -1,8 +1,3 @@
-#
-# http://cdn.jouw.apt - 192.168.1.14
-#
-# Static Dir - /apps/cdn/serve
-#
 #################
 from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
